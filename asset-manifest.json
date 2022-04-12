@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://newmohit.github.io/csb-hz7m86/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://newmohit.github.io/csb-hz7m86/static/js/main.902279a3.chunk.js",
+    "main.js.map": "https://newmohit.github.io/csb-hz7m86/static/js/main.902279a3.chunk.js.map",
+    "runtime-main.js": "https://newmohit.github.io/csb-hz7m86/static/js/runtime-main.5ad23c69.js",
+    "runtime-main.js.map": "https://newmohit.github.io/csb-hz7m86/static/js/runtime-main.5ad23c69.js.map",
+    "static/js/2.1fac1ad4.chunk.js": "https://newmohit.github.io/csb-hz7m86/static/js/2.1fac1ad4.chunk.js",
+    "static/js/2.1fac1ad4.chunk.js.map": "https://newmohit.github.io/csb-hz7m86/static/js/2.1fac1ad4.chunk.js.map",
+    "index.html": "https://newmohit.github.io/csb-hz7m86/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://newmohit.github.io/csb-hz7m86/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1fac1ad4.chunk.js.LICENSE.txt": "https://newmohit.github.io/csb-hz7m86/static/js/2.1fac1ad4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad23c69.js",
+    "static/js/2.1fac1ad4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.902279a3.chunk.js"
+  ]
+}
